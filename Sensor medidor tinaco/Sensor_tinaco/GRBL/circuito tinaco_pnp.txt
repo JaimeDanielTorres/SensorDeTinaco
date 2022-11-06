@@ -1,0 +1,58 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=circuito tinaco
+*Date=16:30:06
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;16.3124;-74.2395;0;Bottom;Jm6
+2;220k;THT;25.2024;-61.5395;0;Bottom;R5
+3;10k;THT;49.0784;-20.3915;0;Bottom;R13
+4;;THT;5.13644;-10.9935;180;Bottom;J3
+5;220k;THT;25.2024;-64.0795;0;Bottom;R4
+6;1µF;100 mil [THT, electrolytic];52.6344;-74.7475;0;Bottom;C3
+7;;;16.3124;-54.4275;0;Bottom;Jm2
+8;;;7.16844;-36.1395;0;Bottom;Jm12
+9;;;43.7444;-13.0255;0;Bottom;Jm16
+10;;THT;38.6637;-18.2739;90;Bottom;XTAL1
+11;;;34.6004;-73.2235;0;Bottom;Jm8
+12;100nF;100 mil [THT, multilayer];32.0604;-22.1743;90;Bottom;C1
+13;;TO92 [THT];28.3139;-78.2146;0;Bottom;Q1
+14;10k;THT;49.0784;-23.4395;0;Bottom;R14
+15;220;THT;38.6009;-10.2315;180;Bottom;R7
+16;10k;THT;22.1544;-74.2395;0;Bottom;R9
+17;;THT;53.6504;-13.7875;90;Bottom;J7
+18;;5 mm [THT];39.5372;-4.64336;-90;Bottom;LED2
+19;;THT;42.8554;-75.7635;90;Bottom;J2
+20;;;12.2484;-36.1395;0;Bottom;Jm13
+21;10k;THT;43.2364;-31.8215;90;Bottom;R11
+22;10k;THT;40.6964;-31.8215;90;Bottom;R12
+23;;;22.4084;-22.1695;0;Bottom;Jm15
+24;220;THT;31.4889;-9.2155;180;Bottom;R10
+25;;;5.89844;-53.4115;0;Bottom;Jm4
+26;;5 mm [THT];32.2037;-4.64336;90;Bottom;LED1
+27;220k;THT;25.2024;-71.6995;0;Bottom;R1
+28;220k;THT;25.2024;-58.9995;0;Bottom;R6
+29;;THT;32.0604;-38.4255;0;Bottom;J6
+30;220k;THT;25.2024;-66.6195;0;Bottom;R3
+31;;rj45-8;5.84257;-65.4765;90;Bottom;U2
+32;;;13.7724;-54.4275;0;Bottom;Jm3
+33;;;15.2964;-35.1235;0;Bottom;Jm14
+34;100nF;100 mil [THT, multilayer];32.0604;-17.0943;90;Bottom;C2
+35;;THT;37.6484;-30.8055;0;Bottom;J4
+36;12V;THT;44.2525;-56.0155;-90;Bottom;K1
+37;;;44.2524;-55.9515;0;Bottom;Jm17
+38;;THT;37.6484;-37.4095;0;Bottom;J5
+39;;dip;22.6624;-23.6935;0;Bottom;U3
+40;220k;THT;25.2024;-69.1595;0;Bottom;R2
+41;;THT;55.4284;-35.2505;0;Bottom;T1 - ~G - T2
+42;10k;THT;29.0124;-47.8235;90;Bottom;R8
+43;;THT;11.2324;-69.9215;0;Bottom;J1
